@@ -1,0 +1,11 @@
+{
+  "name": "genetic-algorithm-example",
+  "version": "1.0.0",
+  "description": "A simple genetic algorithm to create a message that says hello world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anson Wayman",
+  "license": "ISC"
+}
